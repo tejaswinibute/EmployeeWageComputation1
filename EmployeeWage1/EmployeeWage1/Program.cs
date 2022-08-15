@@ -11,8 +11,8 @@
             DailyWage wage = new DailyWage();
             wage.DailyWage();
 
-            PartTimeWage PartTimeWage = new PartTimeWage();
-            PartTimeWage.EmployeePartTimeWage();
+            PartTimeFullTime PartTimeFullTime = new PartTimeFullTime();
+            PartTimeFullTime.EmployeePartTimeFullTime();
 
             SwitchStatement switchwage = new SwitchStatement();
             switchwage.SwitchDailyWage();
